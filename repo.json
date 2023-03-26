@@ -71,7 +71,7 @@
 	}, {
 		"name": "DolphiniOS",
 		"version": "3.2.1",
-		"icon": "https://upload.wikimedia.org/wikipedia/commons/6/60/Dolphin-logo.svg",
+		"icon": "https://github.com/PolisXY/REPO-TEST/blob/main/Images/Dolphin-logo.png",
 		"down": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
 		"category": "Emulators",
 		"description": "DolphiniOS is an iOS and iPadOS emulator for GameCube and Wii games, based on Dolphin Emulator project, aiming for smooth and fun gaming on mobiles.",
@@ -79,7 +79,7 @@
 	}, {
 		"name": "PPSSPP",
 		"version": "1.14.4",
-		"icon": "https://www.ppsspp.org/img/logo.svg",
+		"icon": "https://github.com/PolisXY/REPO-TEST/blob/main/Images/PPSSPP.png",
 		"down": "https://p.xx.wtf/PPSSPP_v1.14.4-1086-g4fd4e7896.ipa",
 		"category": "Emulators",
 		"description": "PPSSPP is a free and open-source emulator that allows users to play PSP games on your device.",
