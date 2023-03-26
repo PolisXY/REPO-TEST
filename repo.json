@@ -69,6 +69,22 @@
 		"description": "iNDS is an iOS app based on Nintendo DS apps. iNDS Team aims to develop it with community support by adding contributors to the team to address issues promptly.",
 		"bundleID": "net.nerd.iNDS"
 	}, {
+		"name": "DolphiniOS",
+		"version": "3.2.1",
+		"icon": "https://upload.wikimedia.org/wikipedia/commons/6/60/Dolphin-logo.svg",
+		"down": "https://github.com/OatmealDome/dolphin/releases/download/3.2.1/DolphiniOS-NJB-3.2.1-213.ipa",
+		"category": "Emulators",
+		"description": "DolphiniOS is an iOS and iPadOS emulator for GameCube and Wii games, based on Dolphin Emulator project, aiming for smooth and fun gaming on mobiles.",
+		"bundleID": "me.oatmealdome.DolphiniOS-njb"
+	}, {
+		"name": "PPSSPP",
+		"version": "1.14.4",
+		"icon": "https://www.ppsspp.org/img/logo.svg",
+		"down": "https://p.xx.wtf/PPSSPP_v1.14.4-1086-g4fd4e7896.ipa",
+		"category": "Emulators",
+		"description": "PPSSPP is a free and open-source emulator that allows users to play PSP games on your device.",
+		"bundleID": "org.ppsspp.ppsspp"
+	}, {
 		"name": "Delta",
 		"version": "1.4",
 		"icon": "https://raw.githubusercontent.com/rileytestut/Delta/main/Resources/Assets.xcassets/AppIcon.appiconset/icon-180.png",
