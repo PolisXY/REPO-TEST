@@ -4,40 +4,36 @@
 		"repoIcon": "https://upload.wikimedia.org/wikipedia/en/9/9a/Trollface_non-free.png"
 	},
 	"Tweaked": [{
+		"name": "Twitch++",
+		"version": "14.3.1",
+		"down": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-21-2022/TwitchPlus-14.3.1.ipa",
+		"category": "Tweaked Apps",
+		"description": "Twitch++ is great for those looking for an ad-free streaming experience. It offers a wide range of content and allows users to engage with streamers and other viewers through chat.",
+		"bundleID": "tv.twitch",
+		"appstore": "tv.twitch"
+	}, {
 		"name": "uYou+",
 		"version": "18.08.1",
 		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.08.1-2.3.1/uYouPlus_18.08.1_2.3.1.ipa",
 		"category": "Tweaked Apps",
 		"description": "True ad-less YouTube...",
 		"bundleID": "com.google.ios.youtube",
-		"appstore": "com.google.ios.youtube",
-		"contact": {
-			"web": "https://repo.twickd.com",
-			"twitter": "https://twitter.com/twickdrepo"
+		"appstore": "com.google.ios.youtube"
 		}
 	}, {
 		"name": "iPogo",
 		"version": "0.265.0",
 		"down": "https://ipogo.app/download/ipogo-2.8.6.ipa",
 		"category": "Tweaked Apps",
-		"description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
+		"description": "With iPogo you get a full set of tools to help you be the best. iPogo is a simple, powerful and intuitive app that allows you to teleport to raids, skip animations, auto catch and much more!",
 		"bundleID": "com.nianticlabs.pokemongo",
 		"appstore": "com.nianticlabs.pokemongo"
 	}, {
-		"name": "SpooferX",
-		"version": "0.265.0",
-		"down": "https://www.spooferx.app/ipa/SpooferPro-0.265.0-0.137.ipa",
-		"category": "Tweaked Apps",
-		"changelog": "- Added Support for Latest version\n- Fixed Scarlet install error",
-		"description": "SpooferX for Pokémon GO is an enhanced edition of the Pokémon GO app, adding a joystick and with free teleport ! It also include a lot of others features : IV checking, enhanced throw, auto walking and GPX, fast catch trick, a live feed and even a map with everything around you !",
-		"bundleID": "com.nianticlabs.pokemongo",
-		"appstore": "com.nianticlabs.pokemongo"
-	}, {
-		"name": "Sposify++",
+		"name": "Spotify++",
 		"version": "8.6.42",
 		"down": "https://resources.usescarlet.com/repo/IPAs/Spotify.ipa",
 		"category": "Tweaked Apps",
-		"description": "Sposify and Spotilife tweak merged into one app",
+		"description": "Spotify and Spotilife tweak merged into one app",
 		"bundleID": "com.spotify.client",
 		"appstore": "com.spotify.client",
 		"debs": [
@@ -71,7 +67,7 @@
 		"icon": "https://iosninja.io/img/ipas/inds.png",
 		"down": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
 		"category": "Emulators",
-		"description": "",
+		"description": "iNDS is an iOS app based on Nintendo DS apps. iNDS Team aims to develop it with community support by adding contributors to the team to address issues promptly.",
 		"bundleID": "net.nerd.iNDS"
 	}, {
 		"name": "Delta",
@@ -81,15 +77,5 @@
 		"category": "Emulators",
 		"description": "A Fan-build of Delta, an all-in-one classic video game emulator for non-jailbroken iOS devices",
 		"bundleID": "com.ianclawson.DeltaPacEdition"
-	}],
-	"Other": [{
-		"name": "Scarlet",
-		"version": "1.0",
-		"icon": "https://usescarlet.com/icon.png",
-		"down": "https://resources.usescarlet.com/repo/IPAs/ScarletAlpha.ipa",
-		"description": "This is the standard version of Scarlet. Allowing you to tweak and sideload your apps along with import your own certificates or use with a paid developer account entirely computerless.",
-		"bundleID": "com.DebianArch.Scarlet",
-		"category": "Alpha",
-		"changelog": "- Added fakesign support\n-Added back SSL install support."
 	}]
 }
