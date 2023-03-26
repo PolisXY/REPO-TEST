@@ -19,7 +19,6 @@
 		"description": "True ad-less YouTube...",
 		"bundleID": "com.google.ios.youtube",
 		"appstore": "com.google.ios.youtube"
-		}
 	}, {
 		"name": "iPogo",
 		"version": "0.265.0",
