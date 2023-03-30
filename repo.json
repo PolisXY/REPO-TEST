@@ -12,6 +12,15 @@
 		"bundleID": "tv.twitch",
 		"appstore": "tv.twitch"
 	}, {
+		"name": "Snapchat++",
+		"version": "12.24.0.40",
+		"icon": "https://raw.githubusercontent.com/PolisXY/REPO-TEST/main/Images/AppIcon60x60%402x.pngv",
+		"down": "https://ios.vsharepe.com/tweaked/snapchat.ipa",
+		"description": "Snapchat++ provides a version of Snapchat that has additional features not available in the original app. It allows users to save snaps and stories, disable the screenshot notification, and customize the interface, among other things.",
+		"category": "Tweaked Apps",
+		"bundleID": "group.snapchat.picaboo",
+		"appstore": "group.snapchat.picaboo"
+	}, {
 		"name": "uYou+",
 		"version": "18.08.1",
 		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.08.1-2.3.1/uYouPlus_18.08.1_2.3.1.ipa",
