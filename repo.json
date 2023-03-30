@@ -50,6 +50,15 @@
 		"bundleID": "com.rhino.InstagramApp",
 		"appstore": "com.burbn.instagram"
 	}, {
+		"name": "Snapchat++",
+		"version": "12.24.0.40",
+		"icon": "https://raw.githubusercontent.com/PolisXY/REPO-TEST/main/Images/AppIcon60x60%402x.pngv",
+		"down": "https://ios.vsharepe.com/tweaked/snapchat.ipa",
+		"description": "Snapchat++ provides a version of Snapchat that has additional features not available in the original app. It allows users to save snaps and stories, disable the screenshot notification, and customize the interface, among other things.",
+		"category": "Tweaked Apps",
+		"bundleID": "group.snapchat.picaboo",
+		"appstore": "group.snapchat.picaboovv"
+	}, {
 		"name": "VideoStar",
 		"version": "8.3.2",
 		"down": "https://resources.usescarlet.com/repo/IPAs/videostar.ipa",
